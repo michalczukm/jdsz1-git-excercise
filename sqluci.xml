@@ -2,6 +2,7 @@
 <team name="SQLUCI">
     <version>2</version>
     <members>
-        <member name=„Magdalena” surname=„Kortas”>Magda</member>
+        <member name="Magdalena" surname="Kortas">Magda</member>
+		<member name="Wojciech" surname="Artichowicz">Wojtek</member>
     </members>
 </team>
