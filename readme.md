@@ -12,13 +12,17 @@ Plik jest w formacie:
 {
    "team": {
       "version": "{your file version}",
-      "members": {jklasdjadshjkdasjk
+      "members": {
          "member": [
-            {ajksdhdksdasjkhads
+            {
                "name": "{your name}",
                "surname": "{your surname}",
-               "text": "Michał"jkhasdgasd
+               "text": "Michał"
             }
+         ]
+      },
+      "name": "{your team name}"
+   }
 }
 ```
 
