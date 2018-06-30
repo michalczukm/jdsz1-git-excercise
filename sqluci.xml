@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<team name="SQLUCI">
-    <version>2</version>
+<team name="{your team name}">
+    <version>{your file version}</version>
     <members>
-        <member name="Magdalena" surname="Kortas">Magda</member>
-		<member name="Wojciech" surname="Artichowicz">Wojtek</member>
+        <member name="{your name}" surname="{your surname}">{how to call you}</member>
     </members>
 </team>
