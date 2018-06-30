@@ -1,12 +1,17 @@
 {
    "team": {
-      "version": "{1}",
+      "version": „{2}”,
       "members": {
          "member": [
             {
                "name": "{Monika}",
                "surname": "{Serkowska}",
                "text": "Monika"
+            },
+{
+               "name": „{Magda}”,
+               "surname": „{Kortas}”,
+               "text": "Magda”
             }
          ]
       },
