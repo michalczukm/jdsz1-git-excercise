@@ -1,6 +1,6 @@
 {
    "team": {
-      "version": "2.0",
+      "version": "3.0",
       "members": {
          "member": [
             {
@@ -12,6 +12,11 @@
                "name": "Monika",
                "surname": "Kucal",
                "text": "Monika"
+			},
+			{
+               "name": "Bartosz",
+               "surname": "Gornikiewicz",
+               "text": "Bartek"
             }
          ]
       },
