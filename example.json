@@ -1,15 +1,15 @@
 {
    "team": {
-      "version": "{your file version}",
+      "version": "1.0",
       "members": {
          "member": [
             {
-               "name": "{your name}",
-               "surname": "{your surname}",
-               "text": "Michał"
+               "name": "Piotr",
+               "surname": "Szarmach",
+               "text": "Piotrek"
             }
          ]
       },
-      "name": "{your team name}"
+      "name": "jdsz_raczki"
    }
 }
