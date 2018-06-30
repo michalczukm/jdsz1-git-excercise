@@ -1,12 +1,17 @@
 {
    "team": {
-      "version": "1",
+      "version": "2",
       "members": {
          "member": [
             {
                "name": "Grzegorz",
                "surname": "Skipper",
                "text": "Łubudubu"
+            },
+            {
+               "name": "Mateusz",
+               "surname": "Kieszkowski",
+               "text": "Mati"
             }
          ]
       },
