@@ -1,6 +1,6 @@
 {
    "team": {
-      "version": "1",
+      "version": "3",
       "members": {
          "member": [
             {
@@ -12,6 +12,11 @@
                "name": "Marta",
                "surname": "Dop",
                "text": "niech_nam_zyje_prezez_naszego_klubu"
+            },
+            {
+               "name": "Mateusz",
+               "surname": "Kieszkowski",
+               "text": "Mati"
             }
          ]
       },
