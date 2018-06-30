@@ -1,12 +1,17 @@
 {
    "team": {
-      "version": "1.0",
+      "version": "2.0",
       "members": {
          "member": [
             {
                "name": "Piotr",
                "surname": "Szarmach",
                "text": "Piotrek"
+            },
+            {
+               "name": "Monika",
+               "surname": "Kucal",
+               "text": "Monika"
             }
          ]
       },
