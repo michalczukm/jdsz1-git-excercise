@@ -1,0 +1,15 @@
+{
+   "team": {
+      "version": "{1}",
+      "members": {
+         "member": [
+            {
+               "name": "{Monika}",
+               "surname": "{Serkowska}",
+               "text": "Monika"
+            }
+         ]
+      },
+      "name": "{Sqluci}"
+   }
+}
