@@ -1,34 +1,58 @@
 # Git - ćwiczenie grupowe
 # Przedstaw się!
-Celem ćwiczenia jest zbudowanie całą drużyną pliku .xml który zawiera podstawowe informacje o was.
+Celem ćwiczenia jest zbudowanie całą drużyną pliku .json który zawiera podstawowe informacje o was.
 
 ## Plik
-Każda drużyna dostaje jeden plik - odpowiednio `a-team.xml`, `b-team.xml` itd.
+Każda drużyna dostaje jeden plik - odpowiednio `a-team.json`, `b-team.json` itd.
 
 :warning: :warning:	 **Musicie założyć plik dla waszej drużyny** :wink:
 
 Plik jest w formacie:
 ```
-<?xml version="1.0" encoding="utf-8" ?>
-<team name="{your team name}">
-    <version>{your file version}</version>
-    <members>
-        <member name="{your name}" surname="{your surname}">{how to call you}</member>
-    </members>
-</team>
+{
+   "team": {
+      "version": "{your file version}",
+      "members": {
+         "member": [
+            {
+               "name": "{your name}",
+               "surname": "{your surname}",
+               "text": "Michał"
+            }
+         ]
+      },
+      "name": "{your team name}"
+   }
+}
 ```
 
 Przykładowe uzupełnienie pliku:
 ```
-<?xml version="1.0" encoding="utf-8" ?>
-<team name="ISA-MM-1">
-    <version>3</version>
-    <members>
-        <member name="Michał" surname="Michalczuk">Michał</member>
-        <member name="Agata" surname="Agatowska">Aga</member>
-        <member name="Maciej" surname="Kowalski">Macias</member>
-    </members>
-</team>
+{
+   "team": {
+      "version": "3",
+      "members": {
+         "member": [
+            {
+               "name": "Michał",
+               "surname": "Michalczuk",
+               "text": "Michał"
+            },
+            {
+               "name": "Agata",
+               "surname": "Agatowska",
+               "text": "Aga"
+            },
+            {
+               "name": "Maciej",
+               "surname": "Kowalski",
+               "text": "Macias"
+            }
+         ]
+      },
+      "name": "ISA-MM-1"
+   }
+}
 
 ```
 

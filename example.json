@@ -1,0 +1,15 @@
+{
+   "team": {
+      "version": "{your file version}",
+      "members": {
+         "member": [
+            {
+               "name": "{your name}",
+               "surname": "{your surname}",
+               "text": "Michał"
+            }
+         ]
+      },
+      "name": "{your team name}"
+   }
+}
