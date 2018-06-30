@@ -20,15 +20,31 @@ Plik jest w formacie:
 
 Przykładowe uzupełnienie pliku:
 ```
-<?xml version="1.0" encoding="utf-8" ?>
-<team name="ISA-MM-1">
-    <version>3</version>
-    <members>
-        <member name="Michał" surname="Michalczuk">Michał</member>
-        <member name="Agata" surname="Agatowska">Aga</member>
-        <member name="Maciej" surname="Kowalski">Macias</member>
-    </members>
-</team>
+{
+   "team": {
+      "version": "3",
+      "members": {
+         "member": [
+            {
+               "name": "Michał",
+               "surname": "Michalczuk",
+               "text": "Michał"
+            },
+            {
+               "name": "Agata",
+               "surname": "Agatowska",
+               "text": "Aga"
+            },
+            {
+               "name": "Maciej",
+               "surname": "Kowalski",
+               "text": "Macias"
+            }
+         ]
+      },
+      "name": "ISA-MM-1"
+   }
+}</team>
 
 ```
 
